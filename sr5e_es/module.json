@@ -2,7 +2,7 @@
     "name": "SR5e_es"
     "title": "Shadowrun 5th Edition [ES]",
     "description": "Translation to spanish [ES] for Shadowrun 5th Edition game",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "minimumCoreVersion" : "0.6.0",
     "author": "Silverhand",
         
@@ -18,8 +18,8 @@
       }
     ],
     
-    "url": "https://gitlab.com/pangbai8/foundry-vtt-shadowrun-es",
-	"manifest": "https://gitlab.com/pangbai8/foundry-vtt-shadowrun-cn/raw/master/sr5e_cn/module.json",
-	"download": "https://gitlab.com/pangbai8/foundry-vtt-shadowrun-cn/raw/master/sr5e_cn.zip"
+    "url": "https://github.com/CSalamanca/Foundry-VTT-Shadowrun-ES",
+	"manifest": "https://raw.githubusercontent.com/CSalamanca/Foundry-VTT-Shadowrun-ES/main/sr5e_es/module.json",
+	"download": "https://raw.githubusercontent.com/CSalamanca/Foundry-VTT-Shadowrun-ES/main/sr5e_es.zip"
   }
   
