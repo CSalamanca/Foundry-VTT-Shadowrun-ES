@@ -2,8 +2,8 @@
     "name": "SR5e_es",
     "title": "Shadowrun 5th Edition [ES]",
     "description": "Translation to spanish [ES] for Shadowrun 5th Edition game",
-    "version": "0.0.2",
-    "minimumCoreVersion" : "0.6.0",
+    "version": "0.0.3",
+    "minimumCoreVersion" : "0.7.9",
     "author": "Silverhand",
         
     "scripts": [],
