@@ -1,2 +1,1 @@
-vi sr5e_es/module.json
-rm sr5e_es.zip; zip -r sr5e_es.zip sr5e_es
+vi sr5e_es/module.json && rm sr5e_es.zip && zip -r sr5e_es.zip sr5e_es
