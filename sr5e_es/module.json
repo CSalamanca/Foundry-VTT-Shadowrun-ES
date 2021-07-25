@@ -4,7 +4,7 @@
     "description": "Translation to spanish [ES] for Shadowrun 5th Edition game",
     "version": "0.0.7",
     "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "0.8.6",
+    "compatibleCoreVersion" : "0.8.8",
     "author": "Silverhand",
         
     "scripts": [],
